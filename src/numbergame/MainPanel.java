@@ -1,8 +1,9 @@
 package numbergame;
 
 /**
- *
+ * 
  * @author All author names should be in this section
+ * @Ibm 
  * 
  * Briefly describe the purpose of the class in 2-3 sentences
  */
